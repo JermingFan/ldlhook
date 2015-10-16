@@ -1,2 +1,2 @@
 # ldlhook
-xposed module
+修改乐动力提交数据http请求，轻松占领微信运动排行榜封面。
